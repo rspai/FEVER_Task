@@ -14,3 +14,4 @@ Decomposable Attention Model for textual entailment was adapted for the FEVER da
 Finally, the label was predicted based on the weighted scores calculated for the claim evidence pairs. 
 
 Our approach achieved a label accuracy of 0.5843, Fever Score of 0.3741 and F1 score of 0.2512.
+
